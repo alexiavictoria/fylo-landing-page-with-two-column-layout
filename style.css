@@ -8,3 +8,20 @@ html { box-sizing: border-box;}
 
 
 
+/* --- HEADER --- */
+
+.topNav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.topNavMenu {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.topNavMenu li {
+    text-decoration: none;
+}
