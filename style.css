@@ -79,5 +79,35 @@ h2 {
     font-weight: 200;
     font-size: 19px;
     margin: 0;
-    padding: 15px 0 15px 0;
+    padding: 20px 0 20px 0;
 }
+
+.heroForm input {
+    
+}
+
+.emailInputText {
+    width: 50%;
+    height: 40px;
+    border-radius: 5px;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 200;
+    color: hsl(0, 0%, 75%);
+}
+
+.getStartedButton {
+    width: 30%;
+    height: 40px;
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 5px 11px 0px rgba(0,0,0,0.38);
+}
+
+/* --- INFO SECTION OF PAGE --- */
+
