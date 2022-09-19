@@ -58,11 +58,26 @@ html { box-sizing: border-box;}
 }
 
 .heroInfoText {
-    width: 50%;
+    /* width: 50%; */
 }
 
 .heroImg {
     width: 600px;
     height: auto;
-    
+}
+
+h1 {
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.4;
+    margin: 0;
+}
+
+h2 {
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 19px;
+    margin: 0;
+    padding: 15px 0 15px 0;
 }
