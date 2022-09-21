@@ -54,11 +54,7 @@ html { box-sizing: border-box;}
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
-}
-
-.heroInfoText {
-    /* width: 50%; */
+    padding: 0 0 100px 0;
 }
 
 .heroImg {
@@ -115,6 +111,23 @@ h2 {
     display: flex;
     flex-direction: row;
     background-color: hsl(240, 75%, 98%);
+}
+
+h3 {
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+
+}
+
+.infoSectionText {
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+
+}
+
+.reviewCard {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
 }
 
 
