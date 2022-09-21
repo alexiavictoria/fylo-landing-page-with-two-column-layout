@@ -111,3 +111,13 @@ h2 {
 
 /* --- INFO SECTION OF PAGE --- */
 
+.infoSection {
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(240, 75%, 98%);
+}
+
+
+.infoImg {
+    width: 600px;
+    height: auto;
